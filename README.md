@@ -41,12 +41,4 @@ I work across **Flutter, React.js, REST APIs, and backend systems**, with hands-
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
 
 ---
-## 📫 Connect With Me
-
-- 📧 Email: **mhetrechaitanya06@gmail.com**
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-- 🧑‍💻 GitHub: *(this profile)*
-
----
-
 ⭐ *I’m always interested in building scalable systems, clean architectures, and impactful products.*
