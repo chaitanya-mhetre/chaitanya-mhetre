@@ -6,13 +6,9 @@
 ---
 
 ## 👨‍💻 About Me
-
-I am a Software Engineer with strong experience in **full-stack development and mobile applications**, focused on building **scalable, production-ready solutions**.
-
 I work across **Flutter, React.js, REST APIs, and backend systems**, with hands-on experience in **CI/CD pipelines, cloud deployments, and real-world startup environments**. I enjoy designing clean architectures, writing maintainable code, and shipping features that create real impact.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
