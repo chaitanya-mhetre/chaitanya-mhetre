@@ -49,14 +49,6 @@ I work across **Flutter, React.js, REST APIs, and backend systems**, with hands-
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
 
 ---
-
-## 🏆 Achievements
-
-🥇 **Top 5 Finalist — Google Agentic AI Hackathon (Hack2Skill)**  
-📍 National Level | Bengaluru
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: **mhetrechaitanya06@gmail.com**
