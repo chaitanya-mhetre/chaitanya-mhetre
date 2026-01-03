@@ -1,7 +1,7 @@
 # Hi, I’m Chaitanya Mhetre 👋
 
 🚀 Software Engineer | Flutter & Full-Stack Developer  
-📍 India | 🌍 Working with global teams & US-based clients
+📍 India | 🌍 Working with global teams
 
 ---
 
@@ -47,64 +47,6 @@ I work across **Flutter, React.js, REST APIs, and backend systems**, with hands-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
-
----
-
-## 💼 Professional Experience
-
-### **Software Engineer** — Agribid Private Limited  
-*Aug 2025 – Present | Pune / Mumbai*
-
-- Developing scalable **web and mobile modules** using React.js, Flutter, and REST APIs.
-- Designing backend services and **SQL-based data models** to support high-volume transactional workflows.
-- Working in fast-paced startup environments serving **farmers and aggregators**.
-
----
-
-### **Software Engineering Intern** — Agribid Private Limited  
-*May 2025 – Jul 2025 | Pune*
-
-- Built frontend features using React.js with backend API integration.
-- Contributed to **PostgreSQL schema design and optimization**.
-- Assisted in deployment workflows and environment configuration.
-
----
-
-### **Software Developer** — DK Technos Pvt. Ltd.  
-*Feb 2024 – Mar 2025 | Maharashtra*
-
-- Worked as a full-time developer on **production web applications**.
-- Developed responsive UIs using HTML, CSS, JavaScript, and PHP.
-- Designed and managed MySQL databases and improved application performance.
-
----
-
-## 🚀 Featured Projects
-
-### 🐄 Agritech Mobile Platform (Flutter)
-**Flutter · REST APIs · Firebase**
-
-- Production-grade Flutter app for **farmer onboarding and crop management**.
-- Integrated authentication, real-time updates, and modular architecture.
-- Focused on clean state management and scalable structure.
-
----
-
-### 🗂️ Enterprise Task Management System (Java)
-**Spring Boot · PostgreSQL · REST APIs**
-
-- Role-based task management system with secure REST APIs.
-- Implemented JWT authentication and optimized SQL queries.
-- Followed layered architecture and enterprise coding standards.
-
----
-
-### 🛒 E-Commerce Web Application
-**React.js · Node.js · MongoDB**
-
-- Full-stack e-commerce platform with authentication, cart, and orders.
-- Reusable React components and performance-optimized APIs.
-- Responsive UI with clean component architecture.
 
 ---
 
