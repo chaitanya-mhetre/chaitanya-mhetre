@@ -1,44 +1,29 @@
-# Hi, I’m Chaitanya Mhetre 👋
+## Hi, I'm Chaitanya 👋
 
-🚀 Software Engineer | Flutter & Full-Stack Developer  
-📍 India | 🌍 Working with global teams
+**Software Engineer, AI Backend** · Python · FastAPI · Go · PostgreSQL · LLM systems · Mumbai, India
 
----
+I build backend and AI systems that run in production. At **Agribid** I rebuilt the Gemini image-generation backend for NestIQ, the group's AI interior-design product,
+and designed a server-driven UI template system for the Agribid agritech app.
+Outside work I build AI and backend infrastructure end to end: tested, benchmarked and documented.
 
-## 👨‍💻 About Me
-I work across **Flutter, React.js, REST APIs, and backend systems**, with hands-on experience in **CI/CD pipelines, cloud deployments, and real-world startup environments**. I enjoy designing clean architectures, writing maintainable code, and shipping features that create real impact.
+🏆 Top 5 National Finalist, Google Agentic AI Hackathon (2025)
 
----
-## 🛠️ Tech Stack
+### 🔭 Featured projects
+| Project | What it is | Stack |
+|---|---|---|
+| [**rag-engine**](https://github.com/chaitanya-mhetre/rag-engine) | Hybrid-retrieval RAG (hand-written BM25 + pgvector, RRF, reranking) with citations and a `rag-eval` CLI that gates CI on quality regressions | Python · FastAPI · pgvector |
+| [**ai-agent-platform**](https://github.com/chaitanya-mhetre/ai-agent-platform) | Tool-calling agents with per-tool permissions, human approval, prompt-injection defence and a 48-case eval suite | Python · Postgres · Redis |
+| [**ai-gateway**](https://github.com/chaitanya-mhetre/ai-gateway) | OpenAI-compatible LLM gateway: multi-provider fallback, circuit breaker, caching, quotas, cost tracking | Python · Redis · Prometheus |
+| [**production-fastapi**](https://github.com/chaitanya-mhetre/production-fastapi) | Slotwise: multi-tenant SaaS backend with Postgres RLS, idempotency, outbox, signed webhooks, OpenTelemetry; k6 load-tested | FastAPI · Celery · Postgres |
+| [**distributed-job-platform**](https://github.com/chaitanya-mhetre/distributed-job-platform) | Relay: Redis Streams job queue with DLQ and fencing-token locks; 0 lost side effects under repeated `kill -9` | Python · Redis Streams |
+| [**aiwatch**](https://github.com/chaitanya-mhetre/aiwatch) | Local-first LLM usage and cost tracker (SDK + CLI + dashboard, OpenTelemetry export) | Python |
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
----
+### 🛠️ Stack
+**Languages:** Python · Go · TypeScript · Dart · SQL
+**Backend & data:** FastAPI · NestJS · PostgreSQL · Redis · pgvector · Celery/arq
+**AI:** Gemini / OpenAI / Anthropic APIs · RAG · tool calling · LLM evaluation
+**Infra:** Docker · GitHub Actions · Terraform · Kubernetes · Prometheus · OpenTelemetry
+**Mobile/Web:** Flutter · React · Next.js
 
-### 📱 Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🔧 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
-
----
-⭐ *I’m always interested in building scalable systems, clean architectures, and impactful products.*
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/mhetrechaitanya/) · mhetrechaitanya06@gmail.com
