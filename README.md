@@ -17,6 +17,7 @@ Outside work I build AI and backend infrastructure end to end: tested, benchmark
 | [**production-fastapi**](https://github.com/chaitanya-mhetre/production-fastapi) | Slotwise: multi-tenant SaaS backend with Postgres RLS, idempotency, outbox, signed webhooks, OpenTelemetry; k6 load-tested | FastAPI · Celery · Postgres |
 | [**distributed-job-platform**](https://github.com/chaitanya-mhetre/distributed-job-platform) | Relay: Redis Streams job queue with DLQ and fencing-token locks; 0 lost side effects under repeated `kill -9` | Python · Redis Streams |
 | [**payment-collections-platform**](https://github.com/chaitanya-mhetre/payment-collections-platform) | Recova: B2B payment collections with JWT security, Kafka outbox, Resilience4j and Testcontainers; k6-tested | Java 21 · Spring Boot 3 · Kafka |
+| [**modern-java-ticketing**](https://github.com/chaitanya-mhetre/modern-java-ticketing) | Stagepass: flash-sale ticketing on Java 25 + Spring Boot 4; virtual threads measured at ~1.7–2× platform-thread throughput on blocking I/O | Java 25 · Spring Boot 4 · PostgreSQL |
 | [**aiwatch**](https://github.com/chaitanya-mhetre/aiwatch) | Local-first LLM usage and cost tracker (SDK + CLI + dashboard, OpenTelemetry export) | Python |
 
 ### ✍️ Latest writing
