@@ -16,6 +16,7 @@ Outside work I build AI and backend infrastructure end to end: tested, benchmark
 | [**ai-gateway**](https://github.com/chaitanya-mhetre/ai-gateway) | OpenAI-compatible LLM gateway: multi-provider fallback, circuit breaker, caching, quotas, cost tracking | Python · Redis · Prometheus |
 | [**production-fastapi**](https://github.com/chaitanya-mhetre/production-fastapi) | Slotwise: multi-tenant SaaS backend with Postgres RLS, idempotency, outbox, signed webhooks, OpenTelemetry; k6 load-tested | FastAPI · Celery · Postgres |
 | [**distributed-job-platform**](https://github.com/chaitanya-mhetre/distributed-job-platform) | Relay: Redis Streams job queue with DLQ and fencing-token locks; 0 lost side effects under repeated `kill -9` | Python · Redis Streams |
+| [**payment-collections-platform**](https://github.com/chaitanya-mhetre/payment-collections-platform) | Recova: B2B payment collections with JWT security, Kafka outbox, Resilience4j and Testcontainers; k6-tested | Java 21 · Spring Boot 3 · Kafka |
 | [**aiwatch**](https://github.com/chaitanya-mhetre/aiwatch) | Local-first LLM usage and cost tracker (SDK + CLI + dashboard, OpenTelemetry export) | Python |
 
 ### ✍️ Latest writing
@@ -24,8 +25,8 @@ Outside work I build AI and backend infrastructure end to end: tested, benchmark
 - More at [chaitanyamhetre.me/blog](https://www.chaitanyamhetre.me/blog)
 
 ### 🛠️ Stack
-**Languages:** Python · Go · TypeScript · Dart · SQL
-**Backend & data:** FastAPI · NestJS · PostgreSQL · Redis · pgvector · Celery/arq
+**Languages:** Python · Java · Go · TypeScript · Dart · SQL
+**Backend & data:** FastAPI · Spring Boot · NestJS · Kafka · PostgreSQL · Redis · pgvector · Celery/arq
 **AI:** Gemini / OpenAI / Anthropic APIs · RAG · tool calling · LLM evaluation
 **Infra:** Docker · GitHub Actions · Terraform · Kubernetes · Prometheus · OpenTelemetry
 **Mobile/Web:** Flutter · React · Next.js
