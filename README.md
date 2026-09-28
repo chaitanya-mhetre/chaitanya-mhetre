@@ -19,6 +19,7 @@ Outside work I build AI and backend infrastructure end to end: tested, benchmark
 | [**aiwatch**](https://github.com/chaitanya-mhetre/aiwatch) | Local-first LLM usage and cost tracker (SDK + CLI + dashboard, OpenTelemetry export) | Python |
 
 ### ✍️ Latest writing
+- [Why LangGraph ran my tool twice after a human approval](https://www.chaitanyamhetre.me/blog/langgraph-interrupt-rerun)
 - [How an outage benchmark found a timeout bug in my LLM gateway](https://www.chaitanyamhetre.me/blog/llm-gateway-outage-benchmark)
 - More at [chaitanyamhetre.me/blog](https://www.chaitanyamhetre.me/blog)
 
