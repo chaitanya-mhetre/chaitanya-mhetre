@@ -1,12 +1,12 @@
 ## Hi, I'm Chaitanya 👋
 
-**Software Engineer, AI Backend** · Python · FastAPI · Go · PostgreSQL · LLM systems · Mumbai, India
+**Full Stack Developer @ Agribid · AI Backend** · Python · FastAPI · Go · PostgreSQL · LLM systems · Mumbai, India
 
 I build backend and AI systems that run in production. At **Agribid** I rebuilt the Gemini image-generation backend for NestIQ, the group's AI interior-design product,
 and designed a server-driven UI template system for the Agribid agritech app.
 Outside work I build AI and backend infrastructure end to end: tested, benchmarked and documented.
 
-🏆 Top 5 National Finalist, Google Agentic AI Hackathon (2025)
+🏆 Top 15 of 9,700+ teams (final pitching round), Google Agentic AI Day 2025
 
 ### 🔭 Featured projects
 | Project | What it is | Stack |
