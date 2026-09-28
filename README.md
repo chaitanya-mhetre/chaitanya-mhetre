@@ -18,6 +18,10 @@ Outside work I build AI and backend infrastructure end to end: tested, benchmark
 | [**distributed-job-platform**](https://github.com/chaitanya-mhetre/distributed-job-platform) | Relay: Redis Streams job queue with DLQ and fencing-token locks; 0 lost side effects under repeated `kill -9` | Python · Redis Streams |
 | [**aiwatch**](https://github.com/chaitanya-mhetre/aiwatch) | Local-first LLM usage and cost tracker (SDK + CLI + dashboard, OpenTelemetry export) | Python |
 
+### ✍️ Latest writing
+- [How an outage benchmark found a timeout bug in my LLM gateway](https://www.chaitanyamhetre.me/blog/llm-gateway-outage-benchmark)
+- More at [chaitanyamhetre.me/blog](https://www.chaitanyamhetre.me/blog)
+
 ### 🛠️ Stack
 **Languages:** Python · Go · TypeScript · Dart · SQL
 **Backend & data:** FastAPI · NestJS · PostgreSQL · Redis · pgvector · Celery/arq
@@ -26,4 +30,4 @@ Outside work I build AI and backend infrastructure end to end: tested, benchmark
 **Mobile/Web:** Flutter · React · Next.js
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/mhetrechaitanya/) · mhetrechaitanya06@gmail.com
+[Portfolio](https://www.chaitanyamhetre.me) · [LinkedIn](https://www.linkedin.com/in/mhetrechaitanya/) · mhetrechaitanya06@gmail.com
